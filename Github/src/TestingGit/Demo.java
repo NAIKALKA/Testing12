@@ -9,5 +9,9 @@ public class Demo
 		System.out.println("nrxt data");
 		System.out.println("alka");
 	}
-
+public void m1()
+{
+	System.out.println("demo---m1");
+	
+}
 }
